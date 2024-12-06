@@ -71,6 +71,9 @@ div.kobo {
     margin: 1em;
     display: block;
     border-radius: 25px;
+    -webkit-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+    -moz-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+    box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
  }
  div.laptop {
      background-image: url(img_2.jpg);
@@ -80,6 +83,9 @@ div.kobo {
      padding: 2em;
      margin: 1em;
      border-radius: 25px;
+     -webkit-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+     -moz-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+     box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
   }
   div.orologio {
      background-image: url(img_3.jpg);
@@ -89,6 +95,9 @@ div.kobo {
      padding: 2em;
      margin: 1em;
      border-radius: 25px;
+     -webkit-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+     -moz-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+     box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
   }
   div.pet {
      background-image: url(img_4.jpg);
@@ -98,6 +107,9 @@ div.kobo {
      padding: 2em;
      margin: 1em;
      border-radius: 25px;
+     -webkit-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+     -moz-box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
+     box-shadow: -1px 1px 13px 0px rgba(0,0,0,0.37);
   }
   div.vr {
     display: block;
